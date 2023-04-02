@@ -2,7 +2,8 @@ body {
     padding: 0;
     margin: 0;
     overflow: hidden;
-    height: 600px;
+    height: 600vh;
+    width:100vw
   }
   canvas {
     padding: 0;
